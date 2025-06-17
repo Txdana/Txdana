@@ -4,7 +4,12 @@
 
 <!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Turning+ideas+into+code...;Dream+big%2C+build+smart." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Code.+Create.+Repeat.;Turning+ideas+into+code...;Building+cool+things+since+Day+1.;Learning+Next.js+one+bug+at+a+time.;💻+Writing+bugs+that+turn+into+features.;Creating+impact+with+Python.;Always+debugging.+Always+dreaming.;Reacting+to+life+with+React.;Making+UIs+look+clean+since+forever.;JavaScript+may+be+weird...+but+so+am+I.;Powering+apps+with+logic+and+coffee.;Minimalist+design,+maximum+impact.;Dark+mode+everything.;One+commit+at+a+time.;Next.js+on+my+mind+24%2F7.;Git+push+origin+master+and+chill." alt="Typing SVG" />
+</p>
+
+<!-- Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
 <!-- Badges -->
@@ -31,6 +36,20 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 Most Used Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-40%25-blue?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-20%25-orange?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-15%25-blueviolet?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-10%25-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-10%25-black?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-5%25-red?style=flat&logo=java&logoColor=white" />
 </p>
 
 ---
@@ -39,13 +58,26 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Txdana&show_icons=true&theme=github_dark" alt="Txdana GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Txdana&theme=github-dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Txdana&layout=compact&theme=github_dark&langs_count=6" />
+</p>
+
+---
+
+### 🕒 WakaTime Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Txdana&theme=github_dark&layout=compact" alt="WakaTime Stats" />
+</p>
+
+---
+
+### 🌍 GitHub Contribution Graph
+<p align="center">
+  <img src="https://github-contribution-graph.ezra.wtf/api?username=Txdana&bg_color=000000&color=58a6ff&line=3d3d3d&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
 
 ### 🔗 Connect with me
-<p>
+<p align="center">
   <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/dfw_Tadana"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox" /></a>
