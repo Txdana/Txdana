@@ -4,12 +4,7 @@
 
 <!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Code.+Create.+Repeat.;Turning+ideas+into+code...;Building+cool+things+since+Day+1.;Learning+Next.js+one+bug+at+a+time.;💻+Writing+bugs+that+turn+into+features.;Creating+impact+with+Python.;Always+debugging.+Always+dreaming.;Reacting+to+life+with+React.;Making+UIs+look+clean+since+forever.;JavaScript+may+be+weird...+but+so+am+I.;Powering+apps+with+logic+and+coffee.;Minimalist+design,+maximum+impact.;Dark+mode+everything.;One+commit+at+a+time.;Next.js+on+my+mind+24%2F7.;Git+push+origin+master+and+chill." alt="Typing SVG" />
-</p>
-
-<!-- Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Turning+ideas+into+code...;Dream+big%2C+build+smart." alt="Typing SVG" />
 </p>
 
 <!-- Badges -->
