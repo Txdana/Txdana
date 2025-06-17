@@ -37,36 +37,10 @@
 
 ---
 
-### 📊 Most Used Languages
+### 📈 GitHub Stats & Most Used Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-40%25-blue?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-20%25-orange?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-15%25-blueviolet?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-10%25-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-10%25-black?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-5%25-red?style=flat&logo=java&logoColor=white" />
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Txdana&show_icons=true&theme=github_dark" alt="Txdana GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Txdana&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-### 🕒 WakaTime Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Txdana&theme=github_dark&layout=compact" alt="WakaTime Stats" />
-</p>
-
----
-
-### 🌍 GitHub Contribution Graph
-<p align="center">
-  <img src="https://github-contribution-graph.ezra.wtf/api?username=Txdana&bg_color=000000&color=58a6ff&line=3d3d3d&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Txdana&show_icons=true&theme=github_dark&hide_border=true" alt="Txdana GitHub Stats" style="display: inline-block; width: 48%; margin-right: 2%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Txdana&layout=compact&theme=github_dark&hide_border=true" alt="Txdana Top Languages" style="display: inline-block; width: 48%;" />
 </p>
 
 ---
